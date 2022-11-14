@@ -31,4 +31,5 @@ on the web interface accordingly
 Then click "Check".
 
 Accounts that are not following back will be shown. Click the button to navigate to the profile.
-<img src="a4.png" alt="a5" width="200"/>
+
+<img src="a5.png" alt="a5" width="200"/>
