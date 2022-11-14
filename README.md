@@ -26,3 +26,6 @@ on the web interface accordingly
 
 <img src="a2.png" alt="a2" width="200"/>
 <img src="a3.png" alt="a3" width="200"/>
+<img src="a4.png" alt="a3" width="200"/>
+
+Then click "Check".
