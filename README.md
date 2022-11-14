@@ -26,6 +26,9 @@ on the web interface accordingly
 
 <img src="a2.png" alt="a2" width="200"/>
 <img src="a3.png" alt="a3" width="200"/>
-<img src="a4.png" alt="a3" width="200"/>
+<img src="a4.png" alt="a4" width="200"/>
 
 Then click "Check".
+
+Accounts that are not following back will be shown. Click the button to navigate to the profile.
+<img src="a4.png" alt="a5" width="200"/>
