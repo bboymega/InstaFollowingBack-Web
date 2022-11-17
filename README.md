@@ -1,7 +1,7 @@
 # InstaFollowingBack-Web
 <h2>This is the tutorial of the web interface.</h2>
 
-Checking Accounts that are not following back on Instagram with account dumped file HTML. Based on the project <a href="https://github.com/bboymega/InstaFollowBack">InstaFollowBack</a>.
+Checking Accounts that are not following back on Instagram with account dumped file HTML. Based on the cli project <a href="https://github.com/bboymega/InstaFollowBack">InstaFollowBack</a>.
 
 This website is live at <a href="https://www.instafollowingback.com">InstaFollowingBack</a>.
 
