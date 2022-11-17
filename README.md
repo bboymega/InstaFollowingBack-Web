@@ -3,6 +3,8 @@
 
 Checking Accounts that are not following back on Instagram with account dumped file HTML. Based on the project <a href="https://github.com/bboymega/InstaFollowBack">InstaFollowBack</a>.
 
+This website is live at <a href="https://www.instafollowingback.com">InstaFollowingBack</a>.
+
 It use local HTML file dumped from Instagram "Request Download" instead of direct loggin the account to avoid getting banned.
 
 <h2>To use this script a local copy of Instagram account data is required.</h2>
