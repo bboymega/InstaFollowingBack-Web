@@ -3,3 +3,5 @@ Checking Accounts that are not following back on Instagram with account dumped f
 
 
 <b>This project contains the source code of the web application and Python script.</b>
+
+If you are looking for tutorial of this tool please refer to <a href="https://help.instafollowingback.com">InstaFollowingBack-Web Help</a>.
