@@ -5,7 +5,7 @@ Checking Accounts that are not following back on Instagram with account dumped f
 
 This website is live at <a href="https://www.instafollowingback.com">InstaFollowingBack</a>.
 
-Source code of this project is at <a href="https://github.com/bboymega/InstaFollowBack-Web">Github</a>. 
+Source code of this project is on <a href="https://github.com/bboymega/InstaFollowBack-Web">Github</a>. 
 
 If you like this project, it would be greatly appriciated to share & star.
 
